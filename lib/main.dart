@@ -50,6 +50,7 @@ TextField(
     filled: true,
     focusColor: Colors.blue[100],
     enabledBorder: OutlineInputBorder(
+      borderRadius: BorderRadius.circular(8),
       borderSide:BorderSide( color:Colors.blue[50],width:0.5)
     ),
     prefixIcon: 
